@@ -1,0 +1,49 @@
+Q: What is the atomic number of carbon?
+A: 5
+B: 6*
+C: 7
+D: 8
+
+Q: Photosynthesis occurs in plant mitochondria.
+True
+False*
+
+Q: Which gas makes up most of Earth's atmosphere?
+A: Oxygen
+B: Nitrogen*
+C: Carbon dioxide
+D: Hydrogen
+
+Q: Humans have 46 chromosomes.
+True*
+False
+
+Q: What is the hardest natural substance on Earth?
+A: Gold
+B: Diamond*
+C: Quartz
+D: Titanium
+
+Q: Sound travels faster in water than in air.
+True*
+False
+
+Q: Which blood type is the universal donor?
+A: A
+B: B
+C: AB
+D: O*
+
+Q: All bacteria are harmful to humans.
+True
+False*
+
+Q: What force keeps planets in orbit?
+A: Electromagnetism
+B: Gravity*
+C: Nuclear Force
+D: Friction
+
+Q: The human body has four lungs.
+True
+False*

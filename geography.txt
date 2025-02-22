@@ -1,0 +1,49 @@
+Q: Which country is both a continent and a country?
+A: New Zealand
+B: Australia*
+C: South Africa
+D: Brazil
+
+Q: The Amazon River is in Africa.
+True
+False*
+
+Q: What is the smallest country in the world?
+A: Monaco
+B: Vatican City*
+C: San Marino
+D: Liechtenstein
+
+Q: Mount Everest is in the Andes mountain range.
+True
+False*
+
+Q: Which desert is the largest in the world?
+A: Sahara*
+B: Gobi
+C: Arabian
+D: Kalahari
+
+Q: Canada has 10 provinces and 3 territories.
+True*
+False
+
+Q: What is the capital of Canada?
+A: Toronto
+B: Vancouver
+C: Ottawa*
+D: Montreal
+
+Q: The Nile River flows through Brazil.
+True
+False*
+
+Q: Which country is known as the Land of the Rising Sun?
+A: China
+B: South Korea
+C: Japan*
+D: Thailand
+
+Q: Iceland is covered in ice year-round.
+True
+False*

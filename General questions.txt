@@ -1,0 +1,49 @@
+Q: What is the capital of France?
+A: London
+B: Paris*
+C: Berlin
+D: Madrid
+
+Q: The chemical symbol for gold is "Au".
+True*
+False
+
+Q: Which planet is closest to the Sun?
+A: Venus
+B: Earth
+C: Mercury*
+D: Mars
+
+Q: The Great Wall of China is visible from space.
+True
+False*
+
+Q: Who painted the Mona Lisa?
+A: Vincent van Gogh
+B: Pablo Picasso
+C: Leonardo da Vinci*
+D: Michelangelo
+
+Q: Water boils at 100°C at sea level.
+True*
+False
+
+Q: What is the largest mammal?
+A: African Elephant
+B: Blue Whale*
+C: Giraffe
+D: Hippopotamus
+
+Q: The currency of Japan is the Won.
+True
+False*
+
+Q: How many continents are there?
+A: 5
+B: 6
+C: 7*
+D: 8
+
+Q: The Titanic sank in 1912.
+True*
+False

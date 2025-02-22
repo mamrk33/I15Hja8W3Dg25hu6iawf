@@ -1,0 +1,49 @@
+Q: Chemická značka železa je:  
+A: Zn  
+B: Fe*  
+C: Au  
+D: Ag  
+
+Q: Najtvrdšia prirodzená látka na Zemi je diamant.  
+True*  
+False  
+
+Q: Ktorý orgán zodpovedá za srdcový rytmus?  
+A: Pečeň  
+B: Srdce*  
+C: Pľúca  
+D: Obličky  
+
+Q: Zvuk sa šíri rýchlejšie vo vode ako vo vzduchu.  
+True*  
+False  
+
+Q: Ktorá planéta má prstence?  
+A: Mars  
+B: Venuša  
+C: Saturn*  
+D: Merkúr  
+
+Q: Chlorofyl je zodpovedný za zelenú farbu rastlín.  
+True*  
+False  
+
+Q: Jednotka elektrického prúdu je:  
+A: Volt  
+B: Ampér*  
+C: Ohm  
+D: Watt  
+
+Q: Všetky huby sú jedlé.  
+True  
+False*  
+
+Q: Ktorý prvok je najľahší?  
+A: Hélium  
+B: Vodík*  
+C: Dusík  
+D: Kyslík  
+
+Q: Slnečné zatmenie nastáva, keď Mesiac je medzi Slnkom a Zemou.  
+True*  
+False  

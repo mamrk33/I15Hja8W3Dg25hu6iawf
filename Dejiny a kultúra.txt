@@ -1,0 +1,49 @@
+Q: Kedy sa konala Nežná revolúcia v Česko-Slovensku?  
+A: 1968  
+B: 1989*  
+C: 1993  
+D: 2000  
+
+Q: Veľkomoravská ríša sa rozkladala na území dnešného Slovenska.  
+True*  
+False  
+
+Q: Ktorý panovník vládol Uhorsku v 15. storočí?  
+A: Matej Korvín*  
+B: Štefan Bátory  
+C: Ľudovít Veľký  
+D: Ján Luxemburský  
+
+Q: Slovensko bolo súčasťou Rakúsko-Uhorska.  
+True*  
+False  
+
+Q: Ktoré mesto bolo hlavným mestom Slovenska počas 2. svetovej vojny?  
+A: Bratislava  
+B: Banská Bystrica*  
+C: Nitra  
+D: Trenčín  
+
+Q: Cyril a Metod prišli na Veľkú Moravu v 9. storočí.  
+True*  
+False  
+
+Q: Prvá slovenská univerzita bola založená v:  
+A: Košiciach  
+B: Trnave*  
+C: Prešove  
+D: Žiline  
+
+Q: Slovensko získalo nezávislosť 1. januára 1993.  
+True*  
+False  
+
+Q: Pribinov kríž je symbolom:  
+A: Kresťanstva  
+B: Slovanskej vzájomnosti*  
+C: Stredovekej armády  
+D: Poľnohospodárstva  
+
+Q: Jánošík bol reálnou historickou postavou.  
+True*  
+False  
