@@ -7,7 +7,3 @@ D: Option 4
 Q: Another question
 True*
 False
-
-Q: sanisn
-1*
-0
