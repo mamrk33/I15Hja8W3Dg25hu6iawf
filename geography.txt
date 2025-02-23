@@ -48,6 +48,10 @@ Q: Iceland is covered in ice year-round.
 True
 False*
 
+Q: It is TRUE!!!!
+True*
+False
+
 Q: 1 + 1658401 = 465
 Pravda
 Nepravda*
