@@ -47,3 +47,7 @@ D: Thailand
 Q: Iceland is covered in ice year-round.
 True
 False*
+
+Q: 1 + 1658401 = 465
+Pravda
+Nepravda*
