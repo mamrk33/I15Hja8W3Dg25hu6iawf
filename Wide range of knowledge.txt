@@ -1,0 +1,125 @@
+Q: Which country is known as the "Land of the Rising Sun"?  
+A: China  
+B: South Korea  
+C: Japan*  
+D: Thailand  
+
+Q: The chemical symbol for silver is "Si".  
+True  
+False* (Ag)  
+
+Q: Who painted "The Starry Night"?  
+A: Pablo Picasso  
+B: Vincent van Gogh*  
+C: Claude Monet  
+D: Salvador Dalí  
+
+Q: The Nile River is the longest river in the world.  
+True*  
+False  
+
+Q: What is the capital of Canada?  
+A: Toronto  
+B: Ottawa*  
+C: Vancouver  
+D: Montreal  
+
+Q: DNA stands for "Deoxyribonucleic Acid".  
+True*  
+False  
+
+Q: Which planet is known as the "Red Planet"?  
+A: Venus  
+B: Mars*  
+C: Jupiter  
+D: Saturn  
+
+Q: The Great Wall of China is visible from the Moon.  
+True  
+False*  
+
+Q: Who wrote "To Kill a Mockingbird"?  
+A: Harper Lee*  
+B: J.K. Rowling  
+C: Ernest Hemingway  
+D: Mark Twain  
+
+Q: The currency of Germany before the Euro was the Deutsche Mark.  
+True*  
+False  
+
+Q: Which element has the atomic number 1?  
+A: Helium  
+B: Oxygen  
+C: Hydrogen*  
+D: Carbon  
+
+Q: The Titanic sank in the Pacific Ocean.  
+True  
+False* (Atlantic)  
+
+Q: What is the largest organ in the human body?  
+A: Liver  
+B: Skin*  
+C: Heart  
+D: Lungs  
+
+Q: The Eiffel Tower is located in London.  
+True  
+False*  
+
+Q: Which country invented the pizza?  
+A: France  
+B: Spain  
+C: Italy*  
+D: Greece  
+
+Q: The Statue of Liberty was a gift from France to the USA.  
+True*  
+False  
+
+Q: Which animal is the national symbol of Australia?  
+A: Kangaroo*  
+B: Koala  
+C: Emu  
+D: Platypus  
+
+Q: The Sahara Desert is in South America.  
+True  
+False*  
+
+Q: Who discovered penicillin?  
+A: Marie Curie  
+B: Alexander Fleming*  
+C: Isaac Newton  
+D: Albert Einstein  
+
+Q: The capital of Brazil is Rio de Janeiro.  
+True  
+False* (Brasília)  
+
+Q: Which gas do plants absorb during photosynthesis?  
+A: Oxygen  
+B: Carbon Dioxide*  
+C: Nitrogen  
+D: Hydrogen  
+
+Q: The Olympics are held every 2 years.  
+True  
+False* (4 years)  
+
+Q: What is the smallest prime number?  
+A: 1  
+B: 2*  
+C: 3  
+D: 5  
+
+Q: The currency of Switzerland is the Euro.  
+True  
+False* (Swiss Franc)  
+
+Q: Which language is spoken in Brazil?  
+A: Spanish  
+B: Portuguese*  
+C: French  
+D: English
