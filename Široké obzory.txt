@@ -1,0 +1,125 @@
+Q: Hlavné mesto Slovenska je:  
+A: Praha  
+B: Bratislava*  
+C: Budapešť  
+D: Varšava  
+
+Q: Najvyšší vrch Slovenska je Lomnický štít.  
+True  
+False* (Gerlachovský štít)  
+
+Q: Ktorý slovenský maliar je známy dielom "Kráľova studňa"?  
+A: Martin Benka*  
+B: Ľudovít Fulla  
+C: Janko Alexy  
+D: Mikuláš Galanda  
+
+Q: Slovensko susedí s Ukrajinou.  
+True*  
+False  
+
+Q: Tradičný slovenský dezert je:  
+A: Štrúdľa  
+B: Langoš  
+C: Trdelník*  
+D: Palacinka  
+
+Q: Prvým prezidentom Slovenska bol Václav Havel.  
+True  
+False* (Michal Kováč)  
+
+Q: Ktorá rieka tvorí hranicu medzi Slovenskom a Maďarskom?  
+A: Dunaj  
+B: Morava  
+C: Ipeľ*  
+D: Váh  
+
+Q: Slovensko sa stalo členom NATO v roku 2004.  
+True  
+False* (2004 = EÚ; NATO 2004?)  
+
+Q: Ktoré mesto je centrom slovenského vinárstva?  
+A: Piešťany  
+B: Modra*  
+C: Trenčín  
+D: Žilina  
+
+Q: Slovenský národný strom je:  
+A: Buk  
+B: Lipa*  
+C: Dub  
+D: Smrek  
+
+Q: Jánošík bol zajatý v roku 1713.  
+True*  
+False  
+
+Q: Ktorý slovenský futbalista hral za AC Miláno?  
+A: Marek Hamšík*  
+B: Martin Škrtel  
+C: Stanislav Lobotka  
+D: Peter Dubovský  
+
+Q: Najstaršia univerzita na Slovensku je v Trnave.  
+True*  
+False  
+
+Q: Považský hrad sa nachádza pri rieke Váh.  
+True*  
+False  
+
+Q: Ktoré slovenské mesto je známe podzemými jaskyňami?  
+A: Banská Štiavnica*  
+B: Košice  
+C: Prešov  
+D: Nitra  
+
+Q: Slovenská vlajka má tri farby: bielu, modrú a červenú.  
+True*  
+False  
+
+Q: Ktorý región je známy výrobou fujary?  
+A: Liptov  
+B: Orava*  
+C: Zemplín  
+D: Gemer  
+
+Q: V ktorom roku začalo vysielať Slovenské rádio?  
+A: 1919  
+B: 1926*  
+C: 1938  
+D: 1945  
+
+Q: Bojnický zámok bol postavený v gotickom štýle.  
+True*  
+False  
+
+Q: Ktoré jazero je najväčšie na Slovensku?  
+A: Štrbské pleso  
+B: Zemplínska šírava*  
+C: Veľké Hincovo pleso  
+D: Morské oko  
+
+Q: Slovenská hymna sa volá "Nad Tatrou sa blýska".  
+True*  
+False  
+
+Q: Ktorý slovenský spisovateľ napísal román "Jánošík"?  
+A: Ján Hollý  
+B: Pavol Országh Hviezdoslav  
+C: Jozef Cíger Hronský*  
+D: Ľudovít Štúr  
+
+Q: Vysoké Tatry sú najnižšie pohorie na Slovensku.  
+True  
+False*  
+
+Q: Ktoré mesto je sídlom Slovenskej akadémie vied?  
+A: Košice  
+B: Bratislava*  
+C: Banská Bystrica  
+D: Žilina  
+
+Q: Slovensko má prístup k Jadranskému moru.  
+True  
+False*
