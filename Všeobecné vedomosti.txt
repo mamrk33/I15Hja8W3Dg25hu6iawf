@@ -1,49 +1,9 @@
-Q: Aké je hlavné mesto Slovenska?  
-A: Praha  
-B: Bratislava*  
-C: Budapešť  
-D: Varšava  
+Q: Your question
+A: Option 1
+B: Correct option*
+C: Option 3
+D: Option 4
 
-Q: Najvyššia hora Slovenska je Kriváň.  
-True  
-False* (Gerlachovský štít)  
-
-Q: Ktorý jazyk je úradným jazykom na Slovensku?  
-A: Maďarčina  
-B: Slovenčina*  
-C: Čeština  
-D: Nemčina  
-
-Q: Slovensko vstúpilo do EÚ v roku 2004.  
-True*  
-False  
-
-Q: Tradičný slovenský tanec sa nazýva:  
-A: Polka  
-B: Čardáš  
-C: Kalamajka  
-D: Čardáš*  
-
-Q: Najväčšie slovenské mesto po Bratislave je Košice.  
-True*  
-False  
-
-Q: Ktorá rieka tečie cez Bratislavu?  
-A: Váh  
-B: Dunaj*  
-C: Morava  
-D: Hron  
-
-Q: Slovensko susedí s Poľskom.  
-True*  
-False  
-
-Q: Tradičný slovenský nástroj je:  
-A: Fujara*  
-B: Gajdy  
-C: Harfa  
-D: Bendžo  
-
-Q: Prvým prezidentom Slovenska bol Michal Kováč.  
-True*  
-False  
+Q: Another question
+True*
+False
