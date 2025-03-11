@@ -3,8 +3,3 @@ A: A framework
 B: A state management tool
 C: A database
 D: A UI library
-
-Q: 1+2=
-3*
-12
-1+2
