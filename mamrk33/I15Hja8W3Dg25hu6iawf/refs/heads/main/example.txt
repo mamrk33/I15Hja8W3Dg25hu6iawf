@@ -1,0 +1,13 @@
+Q: Your question
+A: Option 1
+B: Correct option*
+C: Option 3
+D: Option 4
+
+Q: Another question
+True*
+False
+
+Q: jduejrjjf
+icjdnd
+jfififnb*
