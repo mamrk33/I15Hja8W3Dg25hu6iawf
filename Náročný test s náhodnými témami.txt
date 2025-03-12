@@ -1,5 +1,143 @@
-Q: What is Flutter?
-A: A framework
-B: A state management tool
-C: A database
-D: A UI library
+Q: Ktorý z nasledujúcich objektov je najvzdialenejší od Zeme?
+Virgo zhluk
+M87
+IC 1101*
+Andromeda galaxia
+
+Q: Ktorá bitka sa považuje za rozhodujúcu v Napoleonských vojnách?
+Bitka pri Trafalgare
+Bitka pri Austerlitzi
+Bitka pri Waterloo*
+Bitka pri Borodine
+
+Q: Rieš rovnicu: 2x - 5 = 9.
+x = 6
+x = 8
+x = 7*
+x = 9
+
+Q: Aká je hodnota Planckovej konštanty približne?
+9,81 m/s²
+3,00 x 10^8 m/s
+6,626 x 10^-34 J·s*
+1,602 x 10^-19 C
+
+Q: Ktorá bitka sa odohrala počas druhej svetovej vojny?
+Bitka pri Waterloo
+Bitka pri Austerlitzi
+Bitka pri Borodine
+Bitka pri Stalingrade*
+
+Q: Ktorý filozof je autorom diela "Beyond Good and Evil"?
+Immanuel Kant
+Friedrich Nietzsche*
+Platon
+Sartre
+
+Q: Ktorá bunka obsahuje najvyššie množstvo mitochondrií?
+Nervové bunky
+Červené krvinky
+Kožné bunky
+Bunky s vysokou energetickou námahou (napr. srdcové svalové bunky)*
+
+Q: Ktorý umelec je známy dielom "Hviezdna noc"?
+Pablo Picasso
+Salvador Dalí
+Vincent van Gogh*
+Mark Rothko
+
+Q: Ktorý zákon hovorí, že energia sa nedá stvoriť ani zničiť, len premeniť z jednej formy na druhú?
+Newtonov zákon zotrvačnosti
+Zákon akcie a reakcie
+Zákon zachovania energie*
+Druhý termodynamický zákon
+
+Q: V ktorom roku vypukla prvá svetová vojna?
+1918
+1905
+1914*
+1939
+
+Q: Kto je autorom symfónie č. 9, známej aj ako "Óda na radosť"?
+Wolfgang Amadeus Mozart
+Johann Sebastian Bach
+Ludwig van Beethoven*
+Franz Schubert
+
+Q: Ktorý umelec je autorom obrazu "Stolný tanec"?
+Claude Monet
+Pablo Picasso
+René Magritte
+Henri Matisse*
+
+Q: Ktorý teoretik je spojený s konceptom "neviditeľnej ruky" trhu?
+John Maynard Keynes
+Adam Smith*
+Friedrich Hayek
+Karl Marx
+
+Q: Ktoré dielo je považované za vrchol postmodernej literatúry?
+The Pale King
+Ulysses
+White Noise
+Infinite Jest*
+
+Q: Ktorá rieka je najdlhšia v Európe?
+Dunaj
+Volga*
+Rýn
+Don
+
+Q: Aká je priemerná atómová hmotnosť uhlíka?
+16,00 u
+14,01 u
+12,01 u*
+10,81 u
+
+Q: Ktorá zmluva ukončila Prvú svetovú vojnu?
+Versailleská zmluva*
+Múnská dohoda
+Ribbentrop-Molotov pakt
+Parížska mierová dohoda
+
+Q: Aká je hodnota integrálu ∫₀¹ x dx?
+1
+0
+0.5*
+0.25
+
+Q: Kto vynašiel žiarovku?
+Thomas Edison*
+Nikola Tesla
+Galileo Galilei
+Albert Einstein
+
+Q: Čo je základom pre fungovanie umelej inteligencie v strojovom učení?
+Relačné databázy
+Kvantové počítanie
+Neurovedy
+Neuronové siete*
+
+Q: Aká je hodnotu akcelerácie pri páde predmetu na Zemi?
+9.81 m/s²*
+9.80 m/s²
+10.25 m/s²
+0.25 m/s²
+
+Q: Aký algoritmus sa používa na triedenie údajov v počítačových programoch?
+MergeSort
+QuickSort*
+Dijkstra
+Binary Search
+
+Q: Ktorá z nasledujúcich možností je najväčšia galaxií v našom vesmíre?
+Milky Way
+IC 1101*
+Andromeda
+Whirlpool
+
+Q: Ktorý zákon je dôležitý pri výpočtoch termodynamiky?
+Newtonov zákon pohybu
+Zákon zachovania energie*
+Zákon entropie
+Ohmov zákon
