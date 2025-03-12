@@ -1,7 +1,6 @@
-
 Q: Koľko je 7 + 8? 
 A: 14 
-B: 15 
+B: 13 
 C: 16 
 D: 15*
 
@@ -35,9 +34,9 @@ B: 90
 C: 72 
 D: 80
 
-Q: Aký je zvyšok po delení 17 deleno 4? 
-A: 1 
-B: 2* 
+Q: Aký je zvyšok po delení 18 deleno 4? 
+A: 1
+B: 2*
 C: 3 
 D: 4
 
