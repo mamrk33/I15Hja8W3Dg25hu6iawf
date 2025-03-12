@@ -1,5 +1,129 @@
-Q: What is Flutter?
-A: A framework
-B: A state management tool
-C: A database
-D: A UI library
+Q: Ktorý spisovateľ je autorom diela Pán prsteňov? 
+A: J.R.R. Tolkien* 
+B: J.K. Rowlingová 
+C: George R.R. Martin 
+D: Philip Pullman
+
+Q: Kde sa odohráva dej básne Krajina desiata od Milana Rúfusa? 
+Áno 
+Nie*
+
+Q: Kto napísal dielo Mocní a bezmocní? 
+A: Ľudo Zúbek* 
+B: Jozef Gregor Tajovský 
+C: Martin Kukučín 
+D: Ján Kalinčiak
+
+Q: Aký žáner reprezentuje dielo Stavitelia chrámu? 
+A: Dráma* 
+B: Epos 
+C: Komédia 
+D: Román
+
+Q: Kedy sa začala slovenská renesancia? 
+A: 15. storočie 
+B: 16. storočie* 
+C: 14. storočie 
+D: 18. storočie
+
+Q: Kto je autorom diela Ján Žižka? 
+A: Ján Botto 
+B: Ján Smrek 
+C: Pavol Országh Hviezdoslav 
+D: Jozef Cíger Hronský*
+
+Q: Aké je hlavné téma básní Andreja Sládkoviča? 
+A: Láska*
+B: Historické udalosti 
+C: Zápasy o moc 
+D: Krajinná krása
+
+Q: Kto bol hlavným predstaviteľom romantizmu v slovenskej literatúre?
+A: Janko Kráľ* 
+B: Samo Chalupka 
+C: Jozef Karol Viktorin 
+D: Pavel Országh Hviezdoslav
+
+Q: Aké je dielo Vojna a mier od L. N. Tolstoja? 
+A: Historický román* 
+B: Poetická báseň 
+C: Dráma 
+D: Politická esej
+
+Q: Čo znamená slovo nezištný? 
+A: Sebecký 
+B: Súkromný 
+C: Bez osobného zisku* 
+D: Neúprimný
+
+Q: Kto je autorom Slovenských povestí? 
+A: Jozef Miloslav Hurban* 
+B: Martin Kukučín 
+C: Alexander Dubček 
+D: Štefan Krčméry
+
+Q: Aký význam má slovo súvislosť? 
+A: Príčina a následok* 
+B: Konečný bod 
+C: Počiatočná fáza 
+D: Názor
+
+Q: Aký literárny smer dominoval v 19. storočí? 
+A: Romantizmus* 
+B: Realizmus 
+C: Barok 
+D: Humanizmus
+
+Q: Čo je predpokladom úspechu v poézii? 
+A: Forma verša 
+B: Hloubka významu* 
+C: Príbehová linka 
+D: Historická presnosť
+
+Q: Ako sa nazýva báseň, v ktorej sa autor vyjadruje k určitému problému alebo fenoménu? 
+A: Epika 
+B: Lyra* 
+C: Dráma 
+D: Epos
+
+Q: Aký literárny druh je dielo Máj od Andreja Sládkoviča? 
+A: Román 
+B: Poéma* 
+C: Dráma 
+D: Novela
+
+Q: Kedy vzniklo slovenské národné obrodenie? 
+A: V 18. storočí 
+B: V 19. storočí* 
+C: V 20. storočí 
+D: Počas renesancie
+
+Q: Aké sú základné prvky poézie? 
+A: Verš* 
+B: Rým 
+C: Jambus 
+D: Refrén
+
+Q: Čo znamená pojem epigram? 
+A: Krátka satirická báseň* 
+B: Dlhá naratívna báseň 
+C: Krátky príbeh 
+D: Zaujímavý dialóg
+
+Q: Aký je najznámejší slovenský dramatik z obdobia realizmu? 
+A: Jozef Gregor Tajovský* 
+B: Janko Kráľ 
+C: Samo Chalupka 
+D: Martin Kukučín
+
+Q: Aký literárny smer predstavuje dielo Kreatúra od Ladislava Mňačka? 
+A: Realizmus 
+B: Naturalizmus* 
+C: Barok 
+D: Renesancia
+
+Q: Ktorý jazyk bol v období stredoveku hlavným jazykom písomností na Slovensku? 
+A: Latinčina* 
+B: Slovenský jazyk 
+C: Nemčina 
+D: Maďarčina
