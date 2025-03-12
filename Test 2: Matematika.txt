@@ -1,5 +1,133 @@
-Q: What is Flutter?
-A: A framework
-B: A state management tool
-C: A database
-D: A UI library
+
+Q: Koľko je 7 + 8? 
+A: 14 
+B: 15 
+C: 16 
+D: 15*
+
+Q: Ktorý z týchto čísel je prvočíslo? 
+A: 13* 
+B: 21 
+C: 28 
+D: 35
+
+Q: Aký je obvod kruhu s polomerom 5 cm? (π = 3,14) 
+A: 31,4 cm* 
+B: 25 cm 
+C: 10 cm 
+D: 50 cm
+
+Q: Aký je obsah štvorca so stranou dĺžky 4 cm? 
+A: 16 cm²* 
+B: 12 cm² 
+C: 8 cm² 
+D: 24 cm²
+
+Q: Koľko je 2^3? 
+A: 6 
+B: 8* 
+C: 7 
+D: 9
+
+Q: Koľko je 12 x 8? 
+A: 96* 
+B: 90 
+C: 72 
+D: 80
+
+Q: Aký je zvyšok po delení 17 deleno 4? 
+A: 1 
+B: 2* 
+C: 3 
+D: 4
+
+Q: Koľko je 5! (faktoriál)? 
+A: 120* 
+B: 100 
+C: 150 
+D: 80
+
+Q: Aký je objem kocky s hranou dĺžky 3 cm? 
+A: 9 cm³ 
+B: 27 cm³* 
+C: 24 cm³ 
+D: 30 cm³
+
+Q: Aký je súčet vnútorných uhlov v trojuholníku? 
+A: 180°* 
+B: 90° 
+C: 360° 
+D: 270°
+
+Q: Koľko je 15 x 4 - 5? 
+A: 55* 
+B: 50 
+C: 60 
+D: 45
+
+Q: Aký je výsledok delenia 49 deleno 7? 
+A: 7* 
+B: 6 
+C: 8 
+D: 5
+
+Q: Aký je obsah obdĺžnika so stranami 5 cm a 6 cm? 
+A: 30 cm²* 
+B: 35 cm² 
+C: 40 cm² 
+D: 45 cm²
+
+Q: Koľko je 25% z čísla 200? 
+A: 50* 
+B: 100 
+C: 150 
+D: 200
+
+Q: Koľko je zlomok 3/4 v desatinnom zápise? 
+A: 0,75* 
+B: 0,5 
+C: 1,5 
+D: 0,25
+
+Q: Koľko je priemer kruhu s polomerom 5 cm? 
+A: 10 cm* 
+B: 5 cm 
+C: 7 cm 
+D: 15 cm
+
+Q: Aký je súčet čísel 2, 4, 6, 8? 
+A: 20* 
+B: 18 
+C: 16 
+D: 12
+
+Q: Aká je dĺžka strany štvorca s obsahom 25 cm²? 
+A: 4,5 cm 
+B: 5 cm* 
+C: 6 cm 
+D: 7 cm
+
+Q: Koľko je 3^2 + 4^2? 
+A: 25* 
+B: 15 
+C: 22 
+D: 20
+
+Q: Aký je obvod trojuholníka so stranami 3 cm, 4 cm a 5 cm? 
+A: 12 cm* 
+B: 14 cm 
+C: 16 cm 
+D: 10 cm
+
+Q: Aké je maximum čísiel 15, 28, 33, 19? 
+A: 33* 
+B: 28 
+C: 19 
+D: 15
+
+Q: Aký je výsledok 9 x 3 - 7? 
+A: 20* 
+B: 15 
+C: 18 
+D: 25
+
