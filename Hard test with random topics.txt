@@ -1,5 +1,143 @@
-Q: What is Flutter?
-A: A framework
-B: A state management tool
-C: A database
-D: A UI library
+Q: Which of the following objects is the farthest from Earth?
+Virgo Cluster
+M87
+IC 1101*
+Andromeda Galaxy
+
+Q: Which battle is considered decisive in the Napoleonic Wars?
+Battle of Trafalgar
+Battle of Austerlitz
+Battle of Waterloo*
+Battle of Borodino
+
+Q: Solve the equation: 2x - 5 = 9.
+x = 6
+x = 8
+x = 7*
+x = 9
+
+Q: What is the approximate value of Planck's constant?
+9.81 m/s²
+3.00 x 10^8 m/s
+6.626 x 10^-34 J·s*
+1.602 x 10^-19 C
+
+Q: Which battle occurred during World War II?
+Battle of Waterloo
+Battle of Austerlitz
+Battle of Borodino
+Battle of Stalingrad*
+
+Q: Which philosopher is the author of "Beyond Good and Evil"?
+Immanuel Kant
+Friedrich Nietzsche*
+Plato
+Sartre
+
+Q: Which type of cell contains the highest number of mitochondria?
+Nerve cells
+Red blood cells
+Skin cells
+Cells with high energy demands (e.g., cardiac muscle cells)*
+
+Q: Which artist is known for the painting "The Starry Night"?
+Pablo Picasso
+Salvador Dalí
+Vincent van Gogh*
+Mark Rothko
+
+Q: Which law states that energy cannot be created or destroyed, only transformed from one form to another?
+Newton's First Law
+Law of Action and Reaction
+Law of Conservation of Energy*
+Second Law of Thermodynamics
+
+Q: In which year did World War I begin?
+1918
+1905
+1914*
+1939
+
+Q: Who is the composer of Symphony No. 9, also known as "Ode to Joy"?
+Wolfgang Amadeus Mozart
+Johann Sebastian Bach
+Ludwig van Beethoven*
+Franz Schubert
+
+Q: Which artist is the author of the painting "Dance at the Table"?
+Claude Monet
+Pablo Picasso
+René Magritte
+Henri Matisse*
+
+Q: Which theorist is associated with the concept of the "invisible hand" of the market?
+John Maynard Keynes
+Adam Smith*
+Friedrich Hayek
+Karl Marx
+
+Q: Which work is considered the pinnacle of postmodern literature?
+The Pale King
+Ulysses
+White Noise
+Infinite Jest*
+
+Q: Which river is the longest in Europe?
+Danube
+Volga*
+Rhine
+Don
+
+Q: What is the average atomic mass of carbon?
+16.00 u
+14.01 u
+12.01 u*
+10.81 u
+
+Q: Which treaty ended World War I?
+Treaty of Versailles*
+Munich Agreement
+Molotov-Ribbentrop Pact
+Paris Peace Accords
+
+Q: What is the value of the integral ∫₀¹ x dx?
+1
+0
+0.5*
+0.25
+
+Q: Who invented the lightbulb?
+Thomas Edison*
+Nikola Tesla
+Galileo Galilei
+Albert Einstein
+
+Q: What is the foundation of artificial intelligence in machine learning?
+Relational databases
+Quantum computing
+Neurosciences
+Neural networks*
+
+Q: What is the value of acceleration for an object falling on Earth?
+9.81 m/s²*
+9.80 m/s²
+10.25 m/s²
+0.25 m/s²
+
+Q: What algorithm is used for sorting data in computer programs?
+MergeSort
+QuickSort*
+Dijkstra
+Binary Search
+
+Q: Which of the following is the largest galaxy in our universe?
+Milky Way
+IC 1101*
+Andromeda
+Whirlpool
+
+Q: Which law is important in thermodynamics calculations?
+Newton's Laws of Motion
+Law of Conservation of Energy*
+Entropy Law
+Ohm's Law
