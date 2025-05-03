@@ -1,0 +1,29 @@
+{
+  "name": "Flutter Basics Quiz",
+  "description": "Test your knowledge of Flutter fundamentals, widgets, and state management concepts.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which widget would you use to create a scrollable list of widgets?",
+      "options": [
+        "Container",
+        "ListView",
+        "Stack"
+      ],
+      "correct_option": 1,
+      "image_url": "https://example.com/images/listview_example.png"
+    },
+    {
+      "id": 2,
+      "text": "What is the main difference between StatelessWidget and StatefulWidget?",
+      "options": [
+        "StatelessWidget is faster than StatefulWidget",
+        "StatelessWidget cannot have child widgets",
+        "StatefulWidget can be updated during its lifetime",
+        "StatefulWidget is only used for animations"
+      ],
+      "correct_option": 3,
+      "explanation": "The main difference is that StatefulWidget can be updated during its lifetime as it maintains state, while StatelessWidget is immutable once built."
+    }
+  ]
+}
