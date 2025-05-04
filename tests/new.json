@@ -1,1 +1,1 @@
-{"name":"New","description":"Testujem","questions":[],"created_at":"2025-05-04T23:16:07.327860","modified_at":"2025-05-04T23:16:07.329982"}
+{"name":"New","description":"Testujem","questions":[{"id":"1746394207451","text":"1-4=","options":["2","4","-3","-1","5","-4","3","0"],"correct_option":0,"explanation":"Guess"}],"created_at":"2025-05-04T23:16:07.327860","modified_at":"2025-05-04T23:16:07.329982"}
